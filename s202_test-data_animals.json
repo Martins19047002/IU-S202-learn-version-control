@@ -34,5 +34,11 @@
     "scientificName": "Vulpes vulpes",
     "habitat": "Forests, grasslands, mountains, and urban areas",
     "description": "An adaptable canine with a bushy tail, pointed ears, and a reddish coat."
+  },
+  {
+    "commonName": "Sea Otter",
+    "scientificName": "Enhydra lutris",
+    "habitat": "Nearshore coastal waters of the North Pacific",
+    "description": "A marine mammal with dense fur that often uses tools to open shellfish."
   }
 ]
